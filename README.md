@@ -28,7 +28,7 @@ Agent orchestration · AI evaluation · Guardrails · AI observability · PII pr
 
 ### 🤝 Let's Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/mahavirvaishnav/)
 
 ---
 
