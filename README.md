@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahavir Vaishnav
 
-<!--
-**Mahavir08/mahavir08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Generative AI | Agentic AI | Backend Engineering
 
-Here are some ideas to get you started:
+I build **AI-powered products and production-ready backend systems**, with a focus on LLMs, RAG, AI agents, and scalable architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Work With
+
+**AI:** LLMs · RAG · LangChain · LangGraph · Agentic AI · MCP · Vector Search
+
+**Backend:** Python · FastAPI · Node.js · TypeScript · REST · GraphQL
+
+**Data & Cloud:** PostgreSQL · MongoDB · Redis · AWS · Docker
+
+### 🚀 Building
+
+**[Trenold AI](https://www.trenold.com)** — AI assistant exploring LLMs, agents and intelligent workflows.
+
+**[PdfRaven](https://pdfraven.com)** — AI-powered PDF editing and document intelligence platform.
+
+### 🔭 Currently Exploring
+
+Agent orchestration · AI evaluation · Guardrails · AI observability · PII protection · System Design
+
+### 💡 My Approach
+
+> **Build simple. Understand deeply. Ship useful things.**
+
+### 🤝 Let's Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/YOUR_USERNAME)
+
+---
+
+⭐ *Always learning. Always building.*
